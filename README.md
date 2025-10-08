@@ -86,6 +86,8 @@ Quando seu portfólio estiver pronto, você pode gerar a versão de produção o
 
 2.  **Deploy:**
     Faça o deploy do conteúdo da pasta `dist` em qualquer serviço de hospedagem de sites estáticos, como:
+    * [Google Cloud](https://cloud.google.com/)
     * [Vercel](https://vercel.com/)
     * [Netlify](https://www.netlify.com/)
     * [GitHub Pages](https://pages.github.com/)
+
