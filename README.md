@@ -1,4 +1,4 @@
-# Portfólio Pessoal Moderno
+# Portfólio Pessoal - Profissional de Tecnologia
 
 Este repositório contém o código-fonte de um portfólio pessoal moderno, projetado para desenvolvedores e profissionais de tecnologia exibirem sua experiência profissional, projetos e habilidades técnicas.
 
