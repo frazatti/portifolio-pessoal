@@ -57,18 +57,12 @@ Siga os passos abaixo para configurar e executar o projeto em sua máquina local
     npm install
     ```
 
-3.  **Configure as variáveis de ambiente:**
-    Este projeto utiliza uma chave de API do Gemini. Crie um arquivo chamado `.env` na raiz do projeto e adicione sua chave.
-    ```
-    GEMINI_API_KEY="SUA_CHAVE_API_AQUI"
-    ```
-
-4.  **Execute o servidor de desenvolvimento:**
+3.  **Execute o servidor de desenvolvimento:**
     ```sh
     npm run dev
     ```
 
-5.  Abra seu navegador e acesse `http://localhost:3000` para visualizar a aplicação.
+4.  Abra seu navegador e acesse `http://localhost:3000` para visualizar a aplicação.
 
 ## 🔧 Como Personalizar
 
